@@ -1,0 +1,3 @@
+1. SpringBoot is used for developing project
+2. Go to create Maven project
+3. Build JPA Project
