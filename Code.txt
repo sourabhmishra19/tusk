@@ -6,6 +6,8 @@ springboot
 Hibernate
 JPA
 
+python
+django
 
 
 Thank you 
