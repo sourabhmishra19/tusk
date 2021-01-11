@@ -32,11 +32,4 @@ public class MyController {
 		//home.html
 	}
 	
-	@RequestMapping(value ="/address",method = RequestMethod.GET)
-	public String address()
-	{
-		System.out.println("Inside about handler...");
-		return "address";
-		//address.html
-	}
 }
