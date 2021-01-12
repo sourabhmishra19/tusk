@@ -31,4 +31,11 @@ public class MyController {
 		return "home";
 		//home.html
 	}
+	@RequestMapping(value ="/hey",method = RequestMethod.GET)
+	public String hey()
+	{
+		System.out.println("Inside about handler...");
+		return "hey";
+		//home.html
+	}
 }
